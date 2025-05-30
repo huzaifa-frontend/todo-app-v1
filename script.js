@@ -57,6 +57,6 @@ function saveTasks() {
   localStorage.setItem('todoList', JSON.stringify(todoList));
 }
 
-// Event listeners
+
 document.getElementById('addBtn').addEventListener('click', addTask);
 document.addEventListener('DOMContentLoaded', displayTasks);
