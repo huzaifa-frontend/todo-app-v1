@@ -1,13 +1,14 @@
 body {
-  background-color: #f8f4f0;
+  background-color: #f2ede8;
   font-family: "Arial", sans-serif;
 }
 
 .header {
-  background-color: #e98074;
+  background-color: #e5695b;
   padding: 20px;
   text-align: center;
   color: #fff;
+  margin-bottom: 40px;
 }
 
 .header-title {
